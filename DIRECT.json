@@ -1,0 +1,10 @@
+{
+    "domain_keyword": [
+        "ysug",
+        "euserv",
+        "你的关键字3",
+        "你的关键字4"
+    ],
+    "action": "route",
+    "outbound": "direct"
+}

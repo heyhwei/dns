@@ -1,0 +1,9 @@
+{
+    "domain_suffix": [
+        "netflixdnstest0.com",
+        "example.com",
+        "test.org"
+    ],
+    "action": "route",
+    "outbound": "proxy"
+}
